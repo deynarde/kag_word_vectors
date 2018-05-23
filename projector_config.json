@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "CTF EU 3 2017-2018 word vectors",
+      "tensorShape": [
+        1000,
+        50
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/deynarde/kag_word_vectors/master/vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/deynarde/kag_word_vectors/master/vectors_names.tsv"
+    }
+  ]
+}
