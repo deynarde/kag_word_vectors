@@ -6,8 +6,8 @@
         1000,
         50
       ],
-      "tensorPath": "https://raw.githubusercontent.com/deynarde/kag_word_vectors/master/vectors.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/deynarde/kag_word_vectors/master/vectors_names.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/deynarde/kag_word_vectors/6bb4623d15be0fd194f306fa032025a987f26455/vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/deynarde/kag_word_vectors/6bb4623d15be0fd194f306fa032025a987f26455/vectors_names.tsv"
     }
   ]
 }
